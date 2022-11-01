@@ -9,8 +9,8 @@ Selle lehe eesmärk on tutvustada uutele Tartu kodanikele Tartut.
 Tiimi kuuluvad Henri Hämarik, Artjom Šiškov, Margus Kuzenko.
 
 ## Milline on tiimisisene tööjaotus?
-Pealeht (Henri)
-Wikpedia (Henri)
-Git setup (Henri)
-Branch setup (Henri)
+Pealeht (Henri)<br />
+Wikpedia (Henri)<br />
+Git setup (Henri)<br />
+Branch setup (Henri)<br />
 Projekti laadimine kodu.ut.ee lehele ()
